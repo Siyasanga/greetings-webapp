@@ -1,0 +1,14 @@
+{
+  "name": "greetings-webapp",
+  "version": "1.0.0",
+  "description": "This webpage greets users using express variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Siyasanga Mtshokotsha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
